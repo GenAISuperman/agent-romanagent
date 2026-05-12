@@ -10,6 +10,10 @@ identity:
   keyvault_url: "https://kv-shop-poc.vault.azure.net/"
 
 tools: []
+  - id: toloooo-api
+    roles:
+      - toloooo-api.read
+    apim_base_url: https://apim-shop-poc.azure-api.net/tools/toloooo-api
 
 evaluation:
   suite: default-strict
