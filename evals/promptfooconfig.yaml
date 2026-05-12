@@ -1,4 +1,4 @@
-description: "{{AGENT_ID}} eval suite"
+description: "romanagent eval suite"
 
 prompts:
   - label: "agent-prompt"
